@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
-    --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-primary: #d491d0;
+    --color-secondary: #f5f3f0;
+    --color-tertiary: #dfb8dd;
+    --color-button: #c793f7;
+    --color-button-hover: #dd2fda;
+    --color-text: #b94097;
+    --color-white: #EFDEFF;
 }
 
 /* Estilos generales */
@@ -57,7 +57,7 @@ body {
     font-size: 48px;
     font-family: "Merriweather", serif;
     font-weight: 900;
-    font-style: italic;
+    font-style: bold;
     color: var(--color-white);
 }
 
@@ -122,7 +122,7 @@ button {
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: #af639c;
 }
 
 /* Listas */
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #df05bb;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
